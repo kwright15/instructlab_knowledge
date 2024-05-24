@@ -1,6 +1,6 @@
 Watsonx is IBM's commercial generative AI and scientific data platform based on cloud. It offers a studio, data store, and governance toolkit. It supports multiple large language models (LLMs) along with IBM's own Granite.[2][1]
 
-The platform is described as an AI tool tailed to companies and a one which can be customized for customers' needs and trained on their confidential data, as client data is said to be not collected by IBM for further training of their models. It is also capable of fine-tuning, an approach which makes training pre-trained models on the newly introduced data possible.[3]
+The platform is described as an AI tool tailored to companies and a one which can be customized for customers' needs and trained on their confidential data, as client data is said to be not collected by IBM for further training of their models. It is also capable of fine-tuning, an approach which makes training pre-trained models on the newly introduced data possible.[3]
 History
 
 Watsonx was revealed on May 9, 2023, at the annual Think conference of IBM as a platform that includes multiple services. Just like Watson AI computer with the similar name, Watsonx was named after Thomas J. Watson, IBM's founder and first CEO.[1]
